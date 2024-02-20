@@ -17,6 +17,7 @@ nav {
   top: 0;
   background-color: black;
   opacity: 75%;
+  z-index: 1;
 }
 
 .nav-container {
